@@ -29,3 +29,6 @@ We got answer,that is :
 
                              80<y<90
 (assume student score 89 marks when he spends 9.25 hrs/day)
+
+#### Complete code is available in given Jupiter Notebook. 
+#### Feel Free to connect if you need any guidance.
